@@ -1,0 +1,60 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "homebrew/services"
+brew "act"
+brew "cmake"
+brew "coreutils"
+brew "deno"
+brew "gh"
+brew "git"
+brew "gnupg"
+brew "lazygit"
+brew "mas"
+brew "neovim"
+brew "node"
+brew "postgresql@14"
+brew "python@3.9"
+brew "ripgrep"
+brew "rpm"
+brew "rustup-init"
+brew "supervisor"
+brew "wget"
+brew "zsh-syntax-highlighting"
+cask "alt-tab"
+cask "android-platform-tools"
+cask "anydesk"
+cask "apparency"
+cask "discord"
+cask "enpass"
+cask "google-chrome"
+cask "iina"
+cask "iterm2"
+cask "itsycal"
+cask "prowritingaid"
+cask "qbittorrent"
+cask "qlcolorcode"
+cask "qlimagesize"
+cask "qlmarkdown"
+cask "qlstephen"
+cask "qlvideo"
+cask "quicklook-json"
+cask "quicklookase"
+cask "raycast"
+cask "spotify"
+cask "suspicious-package"
+cask "telegram"
+cask "utm"
+cask "visual-studio-code"
+cask "whatsapp"
+mas "AdGuard for Safari", id: 1440147259
+mas "Alto's Adventure The Spirit of the Mountain", id: 1576663233
+mas "Amphetamine", id: 937984704
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "PayPal Honey", id: 1472777122
+mas "The Lost City", id: 1538650027
