@@ -9,6 +9,7 @@ brew "deno"
 brew "gh"
 brew "git"
 brew "gnupg"
+brew "jenkins-lts", restart_service: true
 brew "lazygit"
 brew "mas"
 brew "neovim"
