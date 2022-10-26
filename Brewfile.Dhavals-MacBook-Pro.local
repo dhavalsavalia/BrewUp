@@ -49,3 +49,15 @@ cask "telegram"
 cask "utm"
 cask "visual-studio-code"
 cask "whatsapp"
+mas "AdGuard for Safari", id: 1440147259
+mas "Alto's Adventure The Spirit of the Mountain", id: 1576663233
+mas "Amphetamine", id: 937984704
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Microsoft Remote Desktop", id: 1295203466
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "PayPal Honey", id: 1472777122
+mas "PocketTube", id: 1533703891
+mas "The Lost City", id: 1538650027
