@@ -47,7 +47,6 @@ cask "raycast"
 cask "spotify"
 cask "suspicious-package"
 cask "telegram"
-cask "utm"
 cask "visual-studio-code"
 cask "whatsapp"
 mas "AdGuard for Safari", id: 1440147259
