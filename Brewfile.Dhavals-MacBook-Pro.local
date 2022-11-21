@@ -1,8 +1,13 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
+tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
+tap "sidneys/homebrew"
 brew "act"
+brew "aria2"
+brew "cabextract"
+brew "cdrtools"
 brew "cmake"
 brew "coreutils"
 brew "deno"
@@ -21,11 +26,14 @@ brew "rpm"
 brew "rustup-init"
 brew "supervisor"
 brew "wget"
+brew "wimlib"
 brew "zsh-syntax-highlighting"
+brew "sidneys/homebrew/chntpw"
 cask "alt-tab"
 cask "android-platform-tools"
 cask "anydesk"
 cask "apparency"
+cask "azure-data-studio"
 cask "discord"
 cask "enpass"
 cask "google-chrome"
@@ -33,8 +41,12 @@ cask "iina"
 cask "iterm2"
 cask "itsycal"
 cask "jetbrains-toolbox"
+cask "microsoft-edge"
+cask "microsoft-remote-desktop"
 cask "microsoft-teams"
+cask "mono-mdk-for-visual-studio"
 cask "nordvpn"
+cask "powershell"
 cask "prowritingaid"
 cask "qbittorrent"
 cask "qlcolorcode"
@@ -49,5 +61,20 @@ cask "setapp"
 cask "spotify"
 cask "suspicious-package"
 cask "telegram"
+cask "visual-studio"
 cask "visual-studio-code"
 cask "whatsapp"
+mas "AdGuard for Safari", id: 1440147259
+mas "Alto's Adventure The Spirit of the Mountain", id: 1576663233
+mas "Amphetamine", id: 937984704
+mas "ClipPaste", id: 1521211189
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "JSONPeep", id: 1458969831
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "PayPal Honey", id: 1472777122
+mas "Pluralsight", id: 431748264
+mas "PocketTube", id: 1533703891
+mas "The Lost City", id: 1538650027
