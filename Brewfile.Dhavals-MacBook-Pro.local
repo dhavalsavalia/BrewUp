@@ -9,6 +9,7 @@ brew "aria2"
 brew "cabextract"
 brew "cdrtools"
 brew "cmake"
+brew "cookiecutter", link: false
 brew "coreutils"
 brew "deno"
 brew "gh"
@@ -16,10 +17,13 @@ brew "git"
 brew "gnupg"
 brew "jenkins-lts", restart_service: true
 brew "lazygit"
+brew "libarchive"
 brew "mas"
 brew "neovim"
 brew "node"
 brew "postgresql@14"
+brew "pyenv"
+brew "python@3.10"
 brew "python@3.9"
 brew "ripgrep"
 brew "rpm"
@@ -36,11 +40,13 @@ cask "apparency"
 cask "azure-data-studio"
 cask "discord"
 cask "enpass"
+cask "fig"
 cask "google-chrome"
 cask "iina"
 cask "iterm2"
 cask "itsycal"
 cask "jetbrains-toolbox"
+cask "little-snitch"
 cask "microsoft-edge"
 cask "microsoft-remote-desktop"
 cask "microsoft-teams"
@@ -57,17 +63,21 @@ cask "qlvideo"
 cask "quicklook-json"
 cask "quicklookase"
 cask "raycast"
+cask "rectangle"
 cask "setapp"
 cask "spotify"
 cask "suspicious-package"
 cask "telegram"
+cask "thunderbird-beta"
 cask "visual-studio"
 cask "visual-studio-code"
 cask "whatsapp"
+cask "zoom"
 mas "AdGuard for Safari", id: 1440147259
-mas "Alto's Adventure The Spirit of the Mountain", id: 1576663233
 mas "Amphetamine", id: 937984704
+mas "Baking Soda", id: 1601151613
 mas "ClipPaste", id: 1521211189
+mas "Fresco", id: 1251572132
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "JSONPeep", id: 1458969831
@@ -76,5 +86,5 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "PayPal Honey", id: 1472777122
 mas "Pluralsight", id: 431748264
-mas "PocketTube", id: 1533703891
-mas "The Lost City", id: 1538650027
+mas "Room Planner", id: 1451474641
+mas "Vinegar", id: 1591303229
