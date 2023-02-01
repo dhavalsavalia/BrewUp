@@ -1,3 +1,4 @@
+tap "azure/functions"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-versions"
@@ -38,9 +39,11 @@ cask "android-platform-tools"
 cask "anydesk"
 cask "apparency"
 cask "azure-data-studio"
+cask "binance"
 cask "discord"
 cask "enpass"
 cask "fig"
+cask "firefox"
 cask "google-chrome"
 cask "iina"
 cask "iterm2"
@@ -50,8 +53,10 @@ cask "little-snitch"
 cask "microsoft-edge"
 cask "microsoft-remote-desktop"
 cask "microsoft-teams"
+cask "minecraft"
 cask "mono-mdk-for-visual-studio"
 cask "nordvpn"
+cask "orion"
 cask "powershell"
 cask "prowritingaid"
 cask "qbittorrent"
@@ -75,16 +80,16 @@ cask "whatsapp"
 cask "zoom"
 mas "AdGuard for Safari", id: 1440147259
 mas "Amphetamine", id: 937984704
-mas "Baking Soda", id: 1601151613
 mas "ClipPaste", id: 1521211189
 mas "Fresco", id: 1251572132
 mas "GarageBand", id: 682658836
+mas "GoodNotes", id: 1444383602
 mas "iMovie", id: 408981434
 mas "JSONPeep", id: 1458969831
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
-mas "PayPal Honey", id: 1472777122
 mas "Pluralsight", id: 431748264
 mas "Room Planner", id: 1451474641
+mas "StopTheMadness", id: 1376402589
 mas "Vinegar", id: 1591303229
