@@ -1,4 +1,5 @@
 tap "azure/functions"
+tap "hashicorp/tap"
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/cask-versions"
@@ -34,6 +35,7 @@ brew "supervisor"
 brew "wget"
 brew "wimlib"
 brew "zsh-syntax-highlighting"
+brew "hashicorp/tap/consul"
 brew "sidneys/homebrew/chntpw"
 cask "alt-tab"
 cask "android-platform-tools"
@@ -83,6 +85,7 @@ cask "whatsapp"
 cask "zoom"
 mas "AdGuard for Safari", id: 1440147259
 mas "Amphetamine", id: 937984704
+mas "AntiCaptcha automatic captcha solver", id: 1620763301
 mas "ClipPaste", id: 1521211189
 mas "Fresco", id: 1251572132
 mas "GarageBand", id: 682658836
