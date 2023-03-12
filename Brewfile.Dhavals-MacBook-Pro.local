@@ -91,17 +91,10 @@ cask "visual-studio-code"
 cask "whatsapp"
 cask "zoom"
 mas "AdGuard for Safari", id: 1440147259
-mas "Amphetamine", id: 937984704
-mas "AntiCaptcha automatic captcha solver", id: 1620763301
 mas "ClipPaste", id: 1521211189
-mas "GarageBand", id: 682658836
 mas "GoodNotes", id: 1444383602
 mas "iMovie", id: 408981434
 mas "JSONPeep", id: 1458969831
-mas "Keynote", id: 409183694
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
 mas "Pluralsight", id: 431748264
-mas "Room Planner", id: 1451474641
 mas "StopTheMadness", id: 1376402589
 mas "Vinegar", id: 1591303229
