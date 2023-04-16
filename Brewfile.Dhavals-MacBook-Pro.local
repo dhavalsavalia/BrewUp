@@ -26,6 +26,7 @@ brew "libarchive"
 brew "mas"
 brew "neovim"
 brew "node"
+brew "pnpm"
 brew "postgresql@14"
 brew "pyenv"
 brew "python@3.10"
@@ -52,6 +53,7 @@ cask "azure-data-studio"
 cask "binance"
 cask "discord"
 cask "enpass"
+cask "epic-games"
 cask "fig"
 cask "figma"
 cask "firefox"
@@ -65,6 +67,7 @@ cask "github"
 cask "google-chrome"
 cask "google-cloud-sdk"
 cask "iina"
+cask "iptvnator"
 cask "iterm2"
 cask "itsycal"
 cask "jetbrains-toolbox"
@@ -77,6 +80,7 @@ cask "monitorcontrol"
 cask "mono-mdk-for-visual-studio"
 cask "ndm"
 cask "nordvpn"
+cask "nvidia-geforce-now"
 cask "orion"
 cask "powershell"
 cask "prowritingaid"
@@ -99,6 +103,7 @@ cask "telegram"
 cask "thunderbird-beta"
 cask "visual-studio"
 cask "visual-studio-code"
+cask "vlc"
 cask "whatsapp"
 cask "zoom"
 mas "1Password for Safari", id: 1569813296
@@ -107,6 +112,9 @@ mas "ClipPaste", id: 1521211189
 mas "GoodNotes", id: 1444383602
 mas "iMovie", id: 408981434
 mas "JSONPeep", id: 1458969831
+mas "Planner 5D", id: 1310584536
 mas "Pluralsight", id: 431748264
+mas "Room Planner", id: 1451474641
 mas "StopTheMadness", id: 1376402589
 mas "Vinegar", id: 1591303229
+mas "Yubico Authenticator", id: 1497506650
