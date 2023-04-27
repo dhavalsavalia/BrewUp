@@ -7,6 +7,7 @@ tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
+tap "microsoft/mssql-release"
 tap "sidneys/homebrew"
 brew "act"
 brew "aria2"
@@ -23,6 +24,7 @@ brew "gnupg"
 brew "jenkins-lts", restart_service: true
 brew "lazygit"
 brew "libarchive"
+brew "libpq"
 brew "mas"
 brew "neovim"
 brew "node"
@@ -36,11 +38,14 @@ brew "rpm"
 brew "rustup-init"
 brew "supervisor"
 brew "tree"
+brew "unixodbc"
 brew "wget"
 brew "wimlib"
 brew "zsh-syntax-highlighting"
 brew "artginzburg/tap/sudo-touchid"
 brew "hashicorp/tap/consul"
+brew "microsoft/mssql-release/msodbcsql17"
+brew "microsoft/mssql-release/mssql-tools"
 brew "sidneys/homebrew/chntpw"
 cask "1password"
 cask "1password-cli"
@@ -111,6 +116,7 @@ mas "AdGuard for Safari", id: 1440147259
 mas "ClipPaste", id: 1521211189
 mas "GoodNotes", id: 1444383602
 mas "iMovie", id: 408981434
+mas "ipTV", id: 1525121231
 mas "JSONPeep", id: 1458969831
 mas "Planner 5D", id: 1310584536
 mas "Pluralsight", id: 431748264
