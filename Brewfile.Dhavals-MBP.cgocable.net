@@ -81,6 +81,7 @@ cask "monitorcontrol"
 cask "ndm"
 cask "nordvpn"
 cask "obs"
+cask "private-internet-access"
 cask "prowritingaid"
 cask "qbittorrent"
 cask "qlcolorcode"
@@ -103,6 +104,7 @@ cask "whatsapp"
 cask "zoom"
 mas "1Password for Safari", id: 1569813296
 mas "AdGuard for Safari", id: 1440147259
+mas "Aeroplan Shopping Button", id: 6443815835
 mas "Baking Soda", id: 1601151613
 mas "GoodNotes", id: 1444383602
 mas "iMovie", id: 408981434
