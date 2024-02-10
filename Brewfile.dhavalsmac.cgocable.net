@@ -54,6 +54,7 @@ cask "android-studio"
 cask "anydesk"
 cask "apparency"
 cask "azure-data-studio"
+cask "calibre"
 cask "chromedriver"
 cask "discord"
 cask "enpass"
@@ -115,6 +116,7 @@ mas "Microsoft Accessory Updater", id: 1599783787
 mas "Pluralsight", id: 431748264
 mas "StopTheMadness", id: 1376402589
 mas "Vinegar", id: 1591303229
+mas "Xcode", id: 497799835
 mas "Yubico Authenticator", id: 1497506650
 vscode "adpyke.vscode-sql-formatter"
 vscode "alefragnani.project-manager"
