@@ -11,6 +11,8 @@ brew "act"
 brew "openssl@3"
 brew "aria2"
 brew "cabextract"
+brew "libxext"
+brew "libxrender"
 brew "cdrtools"
 brew "cmake"
 brew "cookiecutter"
@@ -22,14 +24,17 @@ brew "git"
 brew "gnupg"
 brew "go"
 brew "jenkins-lts", restart_service: true
+brew "jq"
 brew "lazygit"
 brew "libarchive"
 brew "libpq"
+brew "libsm"
 brew "mas"
 brew "neovim"
 brew "node"
 brew "openssl@1.1"
 brew "pnpm"
+brew "poppler"
 brew "postgresql@14"
 brew "pyenv"
 brew "python@3.10"
@@ -37,6 +42,7 @@ brew "python@3.9"
 brew "ripgrep"
 brew "rustup-init"
 brew "stress"
+brew "tesseract"
 brew "tree"
 brew "unixodbc"
 brew "wget"
@@ -106,6 +112,18 @@ cask "vlc"
 cask "whatsapp"
 cask "zed"
 cask "zoom"
+mas "1Password for Safari", id: 1569813296
+mas "AdGuard for Safari", id: 1440147259
+mas "Aeroplan Shopping Button", id: 6443815835
+mas "Baking Soda", id: 1601151613
+mas "Data Jar", id: 1453273600
+mas "Goodnotes", id: 1444383602
+mas "Health Auto Export", id: 1115567069
+mas "JSONPeep", id: 1458969831
+mas "Pages", id: 409201541
+mas "StopTheMadness", id: 1376402589
+mas "Vinegar", id: 1591303229
+mas "Yubico Authenticator", id: 1497506650
 vscode "1yib.rust-bundle"
 vscode "adpyke.vscode-sql-formatter"
 vscode "alefragnani.project-manager"
@@ -130,6 +148,7 @@ vscode "github.copilot-chat"
 vscode "heybourn.headwind"
 vscode "kalimahapps.tailwind-config-viewer"
 vscode "kalimahapps.tailwindcss-kit"
+vscode "mechatroner.rainbow-csv"
 vscode "mikestead.dotenv"
 vscode "monokai.theme-monokai-pro-vscode"
 vscode "ms-azuretools.vscode-docker"
