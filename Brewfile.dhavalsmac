@@ -26,9 +26,11 @@ brew "gh"
 brew "git"
 brew "gnupg"
 brew "go"
+brew "handbrake"
 brew "jenkins-lts", restart_service: true
 brew "jq"
 brew "lazygit"
+brew "libmagic"
 brew "libpq"
 brew "libsm"
 brew "mas"
@@ -44,7 +46,9 @@ brew "python@3.10"
 brew "python@3.9"
 brew "ripgrep"
 brew "rustup-init"
+brew "starship"
 brew "stress"
+brew "tmux"
 brew "tree"
 brew "unixodbc"
 brew "wget"
@@ -81,6 +85,7 @@ cask "font-hack-nerd-font"
 cask "font-victor-mono"
 cask "github"
 cask "google-chrome"
+cask "handbrake"
 cask "hex-fiend"
 cask "iina"
 cask "iterm2"
@@ -88,6 +93,7 @@ cask "itsycal"
 cask "jetbrains-toolbox"
 cask "kindle"
 cask "logi-options-plus"
+cask "microsoft-remote-desktop"
 cask "microsoft-teams"
 cask "minecraft"
 cask "monitorcontrol"
@@ -122,6 +128,7 @@ mas "Baking Soda", id: 1601151613
 mas "Data Jar", id: 1453273600
 mas "Goodnotes", id: 1444383602
 mas "Health Auto Export", id: 1115567069
+mas "Infuse", id: 1136220934
 mas "JSONPeep", id: 1458969831
 mas "Pages", id: 409201541
 mas "StopTheMadness", id: 1376402589
