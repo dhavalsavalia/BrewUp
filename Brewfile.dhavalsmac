@@ -28,7 +28,7 @@ brew "git"
 brew "gnupg"
 brew "go"
 brew "handbrake"
-brew "jenkins-lts", restart_service: true
+brew "jenkins-lts"
 brew "jq"
 brew "lazygit"
 brew "libmagic"
@@ -75,7 +75,6 @@ cask "anydesk"
 cask "apparency"
 cask "arc"
 cask "azure-data-studio"
-cask "calibre"
 cask "chromedriver"
 cask "discord"
 cask "enpass"
@@ -105,10 +104,8 @@ cask "microsoft-teams"
 cask "minecraft"
 cask "monitorcontrol"
 cask "nordvpn"
-cask "nvidia-geforce-now"
 cask "obs"
 cask "obsidian"
-cask "openaudible"
 cask "openvpn-connect"
 cask "private-internet-access"
 cask "prowritingaid"
@@ -134,21 +131,12 @@ cask "zed"
 cask "zoom"
 mas "1Password for Safari", id: 1569813296
 mas "AdGuard for Safari", id: 1440147259
-mas "Aeroplan Shopping Button", id: 6443815835
 mas "Baking Soda", id: 1601151613
 mas "Data Jar", id: 1453273600
-mas "Goodnotes", id: 1444383602
-mas "Health Auto Export", id: 1115567069
-mas "Infuse", id: 1136220934
 mas "JSONPeep", id: 1458969831
 mas "Pages", id: 409201541
 mas "StopTheMadness", id: 1376402589
-mas "TeraBox", id: 1509453185
 mas "Vinegar", id: 1591303229
-mas "Widgy", id: 1524540481
-mas "WireGuard", id: 1451685025
-mas "Xcode", id: 497799835
-mas "Yubico Authenticator", id: 1497506650
 vscode "amazonwebservices.codewhisperer-for-command-line-companion"
 vscode "codeium.codeium"
 vscode "monokai.theme-monokai-pro-vscode"
